@@ -8,12 +8,14 @@ of manual test on the website [Swag Labs](https://www.saucedemo.com/).
 The primary objective is to apply manual QA techniques to validate functionality, usability, and identify possible defects in the Swag Labs demo application.
 
 
-## Contents
+## Content
 
 - test_plan/test_plan_swagLabs.md: 
 - test_cases/
+    - login/
+    - product_navigation/
+    - shopping_cart/
 - bug_report/
-- evidence/
 
 ## ¿How to use this repository?
 
