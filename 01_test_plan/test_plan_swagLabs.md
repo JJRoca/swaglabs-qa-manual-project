@@ -1,7 +1,7 @@
 # Test Plan - Swag Labs
 
 ## 1. Introduction
-This document details the Test Plan for the Swag Labs demo website (https://www.saucedemo.com/).The primary objective is to validate the application's functionality and usability, and to identify possible defects before a hypothetical product release.
+This document details the Test Plan for the Swag Labs demo website (https://www.saucedemo.com/). The primary objective is to validate the application's functionality and usability, and to identify possible defects before a hypothetical product release.
 
 
 ## 2. Scope Test
@@ -77,6 +77,6 @@ The following test types will be executed:
 
 ## 8. Tools
 * Documentation: Markdown (`.md`), excel (`.xlsx`)
-* Version control: Git / GitHub
+* Version Control: Git / GitHub
 * Browsers (Chrome, Firefox, brave)
-* Developer tools  (F12) for basic debugging
+* Developer Tools  (F12) for basic debugging
