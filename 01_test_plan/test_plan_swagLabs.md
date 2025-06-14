@@ -14,11 +14,13 @@ This document details the Test Plan for the Swag Labs demo website (https://www.
     * Viewing all products with details (name, description, price, image).
     * Product sorting(name [A-Z] OR [Z-A], price [LOW-HIGH] OR [HIGH-LOW]).
     * Navigate to product detail page and back. 
+    * Ensure that clicking on a product opens the correct product detail page (name, image, description, price).
+
 * **Shopping Cart:**
     * Adding products to the cart.
     * Removing products from the cart.
     * Car counter updates.
-    * Viweing items in the cart.
+    * Viewing items in the cart.
 * **Checkout Process:**
     * Starting checkout process.
     * Entering customer information(rirst name, last name, postal code).
