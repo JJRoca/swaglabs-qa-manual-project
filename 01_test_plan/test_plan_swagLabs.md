@@ -25,10 +25,10 @@ This document details the Test Plan for the Swag Labs demo website (https://www.
     * Starting checkout process.
     * Entering customer information(rirst name, last name, postal code).
     * Order overview (items, prices, taxes, total).
-    * Complete the purchase.
+    * Completing the purchase.
     * Confirmation messages.
 * **Main Menu:**
-    * Navegagion to "All Items", "About", "Logout".
+    * Navegation to "All Items", "About", "Logout".
 
 ### 2.2. Functionalities Out of Scope
 * Integration testing with external systems (real payment gateways).
