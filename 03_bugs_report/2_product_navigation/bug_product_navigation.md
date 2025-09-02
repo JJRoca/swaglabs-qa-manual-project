@@ -1,6 +1,7 @@
 # 🐞 Bug Report
 
 **Bug ID:** BUG_IMG_001
+
 **Title:** All product images show the same dog image (problem_user)  
 
 ## 📌 Description
