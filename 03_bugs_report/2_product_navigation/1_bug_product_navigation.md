@@ -38,5 +38,5 @@ When logged in as 'problem_user', all product images on the inventory page show 
 - **Priority:** Medium  
 
 ## 🔗 Related Test Case
-[**TC_Product_Navigation_07**](../../02_test_cases/2_product_navigation/product_navigation1.png)
+- [**TC_Product_Navigation_07**](../../02_test_cases/2_product_navigation/product_navigation1.png)
 
