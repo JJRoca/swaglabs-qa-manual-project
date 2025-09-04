@@ -31,7 +31,7 @@ When logged in as 'problem_user', all product images on the inventory page show 
 - All products show the same dog image
 
 ## 📂 Evidence
-![Bug_product_navigation](../img/1_bug_product_navigation.png)  
+![Bug_product_navigation](../bug_images//1_bug_product_navigation.png)  
 
 ## 🎯 Severity / Priority
 - **Severity:** Medium (affects product presentation but app is still usable)  
