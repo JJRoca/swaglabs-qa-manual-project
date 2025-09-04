@@ -42,6 +42,6 @@ When the user select Price (low to high) option from the sort dropdown, the prod
 
 
 ## 🔗 Related Test Case
-- [**TC_Product_Navigation_08**](../../02_test_cases/2_product_navigation/product_navigation2.png)
+- [**TC_Product_Navigation_10**](../../02_test_cases/2_product_navigation/product_navigation2.png)
 
 
