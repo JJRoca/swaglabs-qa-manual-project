@@ -28,7 +28,7 @@ The login request should return an HTTP status code of 401 Unauthorized or 403 F
 The login request returns an HTTP status code of 503 Service Unavailable.
 
 ## 📂 Evidence
-![login_wrong_code](../../bug_images/login_code_status_503.png)
+![login_wrong_code](../bug_images/login_code_status_503.png)
 
 ## 🎯 Severity / Priority
 - **Severity:** High
