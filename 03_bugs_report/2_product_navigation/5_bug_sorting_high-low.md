@@ -6,6 +6,7 @@
 
 ## 📌 Descripcion
 When the user select Price (high to low) option from the sort dropdown, the products are not ordened by price as expected.
+This issue occurs with the users `problem_user` / `error_user`.
 
 ## 🖥️ Environment
 - OS: Windows 10 Pro 64-bit  
@@ -14,18 +15,17 @@ When the user select Price (high to low) option from the sort dropdown, the prod
 
 ## 🔎 Preconditions
 - User logged in with:
-    - Username: `problem_user`
-    - Password: `secret_sauce`
+    - Username: `problem_user` / Password: `secret_sauce`
+    - Username: `error_user` / Password: `secret_sauce`
 - User is on the inventory page (`/inventory.html`)
 
 ## 📝 Steps to Reproduce
 1. Navigate to https://www.saucedemo.com/
-2. Enter username: `problem_user`
-3. Enter password: `secret_sauce`
-4. Click 'Login' button
-5. Open the sort dropdown(top right)
-6. Select Price (high to low)
-7. Observe the product order by price.
+2. Log in with any of the users mentioned in Preconditions.
+3. Click 'Login' button.
+4. Open the sort dropdown(top right).
+5. Select Price (high to low).
+6. Observe the product order by price.
 
 ## ✅ Expected Result
 - Products should be ordered by price from high to low.
@@ -43,5 +43,5 @@ When the user select Price (high to low) option from the sort dropdown, the prod
 
 ## 🔗 Related Test Case
 - [**TC_Product_Navigation_11**](../../02_test_cases/2_product_navigation/product_navigation2.png)
-
+- [**TC_Product_Navigation_15**](../../02_test_cases/2_product_navigation/product_navigation2.png)
 
